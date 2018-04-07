@@ -33,8 +33,8 @@
     "autoload": {
         "files":[
             "payment/PaymentClass.php",
-            "payment/PayoutClass.php",
-            "payment/RefundClass.php"
+            "payout/PayoutClass.php",
+            "refund/RefundClass.php"
         ]
     }
 }
